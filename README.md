@@ -3,6 +3,7 @@ iOS 8.4 Universal app with the purpose of testing some programming ideas. Fills 
 
 Updated so that every Counter has now a UIProgressView to shown counting progression. This progression is viable from left-to-right (default) but also from right-to-left with a tap on the Counter view.
 
+####Checkout the newer branch: [Counters with Instruments with Tremolo Effect](https://github.com/pd3v/Counters/blob/_and_tremolo_effect)
 ####Checkout the new branch: [Counters with Instruments](https://github.com/pd3v/Counters/tree/Counters_with_Instruments)
 
 ## App's initial screen
